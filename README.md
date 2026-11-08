@@ -1,7 +1,5 @@
 # MY WEEK — Weekly Planner
 
-A standalone, mobile-first weekly planner built with HTML, CSS and vanilla JavaScript.
-
 ## Run locally
 
 1. Download and extract `MY_WEEK_Project.zip`.
@@ -29,7 +27,3 @@ A standalone, mobile-first weekly planner built with HTML, CSS and vanilla JavaS
 ## Data and privacy
 
 This version stores data in the current browser/device only. It does not provide cloud backup or cross-device synchronisation. Clearing browser site data can remove the saved planner.
-
-## Hosting on GitHub Pages
-
-Create a separate repository (for example, `my-week-weekly-planner`), upload `index.html` and this README, then enable GitHub Pages from the repository's Settings → Pages.
