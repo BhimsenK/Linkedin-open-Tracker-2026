@@ -1,11 +1,5 @@
 # MY WEEK — Weekly Planner
 
-## Run locally
-
-1. Download and extract `MY_WEEK_Project.zip`.
-2. Open `index.html` in a modern browser (Chrome recommended).
-3. Your planner data is saved in that browser using `localStorage`.
-
 ## Current features
 
 - Seven-day planner with previous / this week / next week navigation.
